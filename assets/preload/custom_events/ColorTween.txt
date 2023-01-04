@@ -1,0 +1,4 @@
+ColorTween
+
+Value 1 : your BG is Black (true/false)
+Value 2 : Duration

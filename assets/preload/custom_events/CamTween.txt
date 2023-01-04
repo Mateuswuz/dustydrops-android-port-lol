@@ -1,0 +1,4 @@
+CamTween Event
+
+Value 1 : Cam Zoom Value ( Float )
+Value 2 : Duration ( Float )
