@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Sans look",
+	"idle_anim": "M Sans idle",
+	"position": [
+		14,
+		14
+	],
+	"scale": 1,
+	"image": "Menu_Sans",
+	"flipX": false
+}
