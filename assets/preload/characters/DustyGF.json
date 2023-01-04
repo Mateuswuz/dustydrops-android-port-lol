@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "dustyGF LDance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "dustyGF RDance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dustyGF",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-220,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

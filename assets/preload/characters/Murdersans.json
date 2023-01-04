@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "Murder_Sans idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Murder_Sans left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "Murder_Sans down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "Murder_Sans up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "Murder_Sans right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Murder_Sans",
+	"position": [
+		-70,
+		70
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		89,
+		105,
+		137
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
