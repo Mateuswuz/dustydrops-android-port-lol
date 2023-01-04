@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Murder_Sans.png">
+<SubTexture name="Murder_Sans idle0000" x="389" y="650" width="396" height="633" frameX="-61" frameY="-24" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans idle0001" x="785" y="650" width="395" height="633" frameX="-61" frameY="-24" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans idle0002" x="1162" y="0" width="392" height="634" frameX="-62" frameY="-24" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans idle0003" x="0" y="650" width="389" height="634" frameX="-63" frameY="-24" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans idle0004" x="1554" y="0" width="389" height="633" frameX="-63" frameY="-24" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans idle0005" x="1554" y="633" width="389" height="633" frameX="-63" frameY="-24" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans left0000" x="2358" y="0" width="418" height="623" frameX="-34" frameY="-34" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans left0001" x="1943" y="626" width="415" height="625" frameX="-37" frameY="-32" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans left0002" x="1943" y="0" width="415" height="626" frameX="-37" frameY="-31" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans down0000" x="0" y="1917" width="443" height="621" frameX="-10" frameY="-37" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans down0001" x="745" y="1284" width="439" height="627" frameX="-14" frameY="-31" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans down0002" x="1184" y="1284" width="435" height="627" frameX="-17" frameY="-31" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans up0000" x="0" y="0" width="388" height="650" frameX="-65" frameY="-7" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans up0001" x="388" y="0" width="387" height="643" frameX="-66" frameY="-14" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans up0002" x="775" y="0" width="387" height="640" frameX="-66" frameY="-17" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans right0000" x="374" y="1284" width="371" height="632" frameX="-84" frameY="-25" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans right0001" x="1180" y="650" width="374" height="633" frameX="-80" frameY="-24" frameWidth="480" frameHeight="660" />
+<SubTexture name="Murder_Sans right0002" x="0" y="1284" width="374" height="633" frameX="-79" frameY="-24" frameWidth="480" frameHeight="660" />
+</TextureAtlas>

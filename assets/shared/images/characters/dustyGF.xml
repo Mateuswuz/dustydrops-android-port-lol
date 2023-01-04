@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dustyGF.png">
+<SubTexture name="dustyGF LDance0000" x="0" y="958" width="420" height="475" frameX="-66" frameY="-19" frameWidth="500" frameHeight="500" />
+<SubTexture name="dustyGF LDance0001" x="420" y="958" width="413" height="475" frameX="-73" frameY="-19" frameWidth="500" frameHeight="500" />
+<SubTexture name="dustyGF LDance0002" x="412" y="480" width="412" height="477" frameX="-74" frameY="-17" frameWidth="500" frameHeight="500" />
+<SubTexture name="dustyGF LDance0003" x="412" y="0" width="412" height="479" frameX="-74" frameY="-15" frameWidth="500" frameHeight="500" />
+<SubTexture name="dustyGF LDance0004" x="824" y="0" width="413" height="478" frameX="-73" frameY="-16" frameWidth="500" frameHeight="500" />
+<SubTexture name="dustyGF LDance0005" x="824" y="480" width="413" height="477" frameX="-73" frameY="-17" frameWidth="500" frameHeight="500" />
+<SubTexture name="dustyGF RDance0000" x="1237" y="477" width="412" height="466" frameX="-74" frameY="-28" frameWidth="500" frameHeight="500" />
+<SubTexture name="dustyGF RDance0001" x="833" y="958" width="412" height="465" frameX="-74" frameY="-29" frameWidth="500" frameHeight="500" />
+<SubTexture name="dustyGF RDance0002" x="1649" y="0" width="412" height="464" frameX="-74" frameY="-30" frameWidth="500" frameHeight="500" />
+<SubTexture name="dustyGF RDance0003" x="1237" y="0" width="412" height="477" frameX="-74" frameY="-17" frameWidth="500" frameHeight="500" />
+<SubTexture name="dustyGF RDance0004" x="0" y="480" width="412" height="478" frameX="-74" frameY="-16" frameWidth="500" frameHeight="500" />
+<SubTexture name="dustyGF RDance0005" x="0" y="0" width="412" height="480" frameX="-74" frameY="-14" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

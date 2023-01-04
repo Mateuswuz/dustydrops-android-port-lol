@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF_Dusty.png">
+<SubTexture name="BF_Dusty idle0000" x="805" y="1245" width="417" height="396" frameX="-4" frameY="-70" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty idle0001" x="388" y="1245" width="417" height="398" frameX="-3" frameY="-69" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty idle0002" x="1115" y="409" width="416" height="407" frameX="-4" frameY="-60" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty idle0003" x="391" y="429" width="417" height="409" frameX="-4" frameY="-58" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty idle0004" x="1115" y="0" width="416" height="409" frameX="-5" frameY="-58" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty left0000" x="1531" y="0" width="372" height="399" frameX="-25" frameY="-66" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty left0001" x="1150" y="839" width="372" height="400" frameX="-27" frameY="-65" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty down0000" x="1903" y="0" width="385" height="391" frameX="-35" frameY="-75" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty down0001" x="1222" y="1245" width="385" height="393" frameX="-35" frameY="-73" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty up0000" x="0" y="0" width="371" height="429" frameX="-59" frameY="-37" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty up0001" x="743" y="0" width="372" height="421" frameX="-59" frameY="-45" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty right0000" x="0" y="839" width="391" height="406" frameX="-56" frameY="-61" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty right0001" x="391" y="839" width="390" height="406" frameX="-54" frameY="-61" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty missleft0000" x="781" y="839" width="369" height="402" frameX="-31" frameY="-62" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty missdown0000" x="0" y="1245" width="388" height="399" frameX="-37" frameY="-68" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty missup0000" x="371" y="0" width="372" height="427" frameX="-55" frameY="-41" frameWidth="450" frameHeight="480" />
+<SubTexture name="BF_Dusty missright0000" x="0" y="429" width="391" height="410" frameX="-55" frameY="-58" frameWidth="450" frameHeight="480" />
+</TextureAtlas>
